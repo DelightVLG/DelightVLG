@@ -4,6 +4,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
+
 <!--
 **DelightVLG/DelightVLG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
