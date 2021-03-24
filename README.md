@@ -6,6 +6,7 @@
 <code><img height="21" width="21" src="./icons/javascript.svg" alt="JS"></code>
 <code><img height="21" width="21" src="./icons/react.svg" alt="React"></code>
 <code><img height="21" width="21" src="./icons/git.svg" alt="Git"></code>
+<code><img height="21" width="21" src="./icons/eslint.svg" alt="ESlint"></code>
 <code><img height="21" width="21" src="./icons/npm.svg" alt="NPM"></code>
 <code><img height="21" width="21" src="./icons/nodejs.svg" alt="node"></code>
 <code><img height="21" width="21" src="./icons/mongodb.svg" alt="mongoDB"></code>
