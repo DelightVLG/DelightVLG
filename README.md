@@ -7,8 +7,13 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/react.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/webstorm.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/npm.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/mongodb.svg"></code>
 
-**Изучаю:**  
+
+**Изучаю:**
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=DelightVLG.DelightVLG" alt="visitors"></p>
 
 
 <!--
