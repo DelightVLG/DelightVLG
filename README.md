@@ -9,6 +9,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/webstorm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/npm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/mongodb.svg"></code>
+<code><img height="21" width="21" src="./icons/react.svg"></code>
 
 
 **Изучаю:**
