@@ -1,16 +1,13 @@
 ### Привет! 👋 Меня зовут Сергей
 
-**Мой стек:**  
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/react.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/webstorm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/npm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/mongodb.svg"></code>
-<code><img height="21" width="21" src="./icons/react.svg"></code>
-
+**Мой стек:**
+<code><img height="21" width="21" src="./icons/html-5.svg" alt="HTML5"></code>
+<code><img height="21" width="21" src="./icons/css-3.svg" alt="CSS3"></code>
+<code><img height="21" width="21" src="./icons/javascript" alt="JS"></code>
+<code><img height="21" width="21" src="./icons/javascript" alt="JS"></code>
+<code><img height="21" width="21" src="./icons/git.svg" alt="Git"></code>
+<code><img height="21" width="21" src="./icons/npm.svg" alt="NPM"></code>
+<code><img height="21" width="21" src="./icons/webstorm.svg" alt="WS"></code>
 
 **Изучаю:**
 
