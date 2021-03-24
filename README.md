@@ -1,6 +1,21 @@
-### Привет! 👋 Меня зовут Сергей
+### Привет! 👋 
+Меня зовут Сергей, я начинающий фронтенд разработчик 💎.
+
+**Немного фактов обо мне:**</br>
+    <a href="https://www.codewars.com/users/DelightVLG" target="_blank">
+      <img src="https://www.codewars.com/users/DelightVLG/badges/micro" alt="Codewars"/>
+    </a></br>
+    
+   🎓 Обучался в Яндекс.Практикуме на 10-ти месячном курсе Фронтенд разработчика и защитил диплом</br>
+   🧭 Сейчас нахожусь в поиске работы<br/>
+   🖖 Умею и хочу работать в команде!<br/>
+   🚀 Хочу полность познать свой стек технологий<br/>
+   😼 Обожаю разные активности: ⚽️🎾⛳️🥊🏂🏋️🏄🏊
+   
+<br/>
 
 **Мой стек:**
+
 <code><img height="21" width="21" src="./icons/html-5.svg" alt="HTML5"></code>
 <code><img height="21" width="21" src="./icons/css-3.svg" alt="CSS3"></code>
 <code><img height="21" width="21" src="./icons/javascript.svg" alt="JS"></code>
@@ -17,6 +32,7 @@
 
 
 **Изучаю:**
+
 <code><img height="21" width="21" src="./icons/typescript-icon.svg" alt="TS"></code>
 <code><img height="21" width="21" src="./icons/sass.svg" alt="SASS"></code>
 <code><img height="21" width="21" src="./icons/vue.svg" alt="VUE"></code>
@@ -31,19 +47,3 @@
 
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=DelightVLG.DelightVLG" alt="visitors"></p>
-
-
-<!--
-**DelightVLG/DelightVLG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
