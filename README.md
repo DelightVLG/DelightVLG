@@ -18,6 +18,7 @@
 
 <code><img height="21" width="21" src="./icons/html-5.svg" alt="HTML5"></code>
 <code><img height="21" width="21" src="./icons/css-3.svg" alt="CSS3"></code>
+<code><img height="21" width="21" src="./icons/sass.svg" alt="SASS"></code>
 <code><img height="21" width="21" src="./icons/javascript.svg" alt="JS"></code>
 <code><img height="21" width="21" src="./icons/typescript-icon.svg" alt="TS"></code>
 <code><img height="21" width="21" src="./icons/react.svg" alt="React"></code>
@@ -34,7 +35,7 @@
 
 **Изучаю:**
 
-<code><img height="21" width="21" src="./icons/sass.svg" alt="SASS"></code>
+
 <code><img height="21" width="21" src="./icons/vue.svg" alt="VUE"></code>
 <code><img height="21" width="21" src="./icons/firebase.svg" alt="FireBase"></code>
 <code><img height="21" width="21" src="./icons/netlify.svg" alt="Netlify"></code>
