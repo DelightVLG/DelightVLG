@@ -1,14 +1,11 @@
 ### Привет! 👋 
-Меня зовут Сергей, я начинающий фронтенд разработчик 🔰💎.
+Меня зовут Сергей, я фронтенд разработчик 🔰💎.
 
 **Немного фактов обо мне:**</br>
     <a href="https://www.codewars.com/users/DelightVLG" target="_blank">
       <img src="https://www.codewars.com/users/DelightVLG/badges/micro" alt="Codewars"/>
     </a></br>
     
-   🎓 Обучался в Яндекс.Практикуме на 10-ти месячном курсе Фронтенд разработчика и защитил диплом</br>
-   🧭 Сейчас нахожусь в поиске работы<br/>
-   🖖 Умею и хочу работать в команде!<br/>
    🚀 Хочу полностью познать свой стек технологий и изучить новые<br/>
    😼 Обожаю разные активности: ⚽️🎾⛳️🏂🏄🏊
    
@@ -22,6 +19,9 @@
 <code><img height="21" width="21" src="./icons/javascript.svg" alt="JS"></code>
 <code><img height="21" width="21" src="./icons/typescript-icon.svg" alt="TS"></code>
 <code><img height="21" width="21" src="./icons/react.svg" alt="React"></code>
+<code><img height="21" width="21" src="./icons/vue.svg" alt="VUE"></code>
+<code><img height="21" width="21" src="./icons/nuxt.svg" alt="VUE"></code>
+<code><img height="21" width="21" src="./icons/nest.svg" alt="VUE"></code>
 <code><img height="21" width="21" src="./icons/git.svg" alt="Git"></code>
 <code><img height="21" width="21" src="./icons/eslint.svg" alt="ESlint"></code>
 <code><img height="21" width="21" src="./icons/npm.svg" alt="NPM"></code>
@@ -35,8 +35,6 @@
 
 **Изучаю:**
 
-
-<code><img height="21" width="21" src="./icons/vue.svg" alt="VUE"></code>
 <code><img height="21" width="21" src="./icons/firebase.svg" alt="FireBase"></code>
 <code><img height="21" width="21" src="./icons/netlify.svg" alt="Netlify"></code>
 <code><img height="21" width="21" src="./icons/redux.svg" alt="Redux"></code>
