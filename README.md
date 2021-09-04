@@ -20,8 +20,8 @@
 <code><img height="21" width="21" src="./icons/typescript-icon.svg" alt="TS"></code>
 <code><img height="21" width="21" src="./icons/react.svg" alt="React"></code>
 <code><img height="21" width="21" src="./icons/vue.svg" alt="VUE"></code>
-<code><img height="21" width="21" src="./icons/nuxt.svg" alt="VUE"></code>
-<code><img height="21" width="21" src="./icons/nest.svg" alt="VUE"></code>
+<code><img height="21" width="21" src="./icons/nuxt.svg" alt="NUXT"></code>
+<code><img height="21" width="21" src="./icons/nest.svg" alt="Nest"></code>
 <code><img height="21" width="21" src="./icons/git.svg" alt="Git"></code>
 <code><img height="21" width="21" src="./icons/eslint.svg" alt="ESlint"></code>
 <code><img height="21" width="21" src="./icons/npm.svg" alt="NPM"></code>
