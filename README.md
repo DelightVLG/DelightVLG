@@ -1,17 +1,17 @@
-### Привет! 👋 
-Меня зовут Сергей, я фронтенд разработчик 🔰💎.
+### Hi there! 👋 
+My name is Sergei and i am a front end developer 🔰💎.
 
-**Немного фактов обо мне:**</br>
+**Some facts about me:**</br>
     <a href="https://www.codewars.com/users/DelightVLG" target="_blank">
       <img src="https://www.codewars.com/users/DelightVLG/badges/micro" alt="Codewars"/>
     </a></br>
     
-   🚀 Хочу полностью познать свой стек технологий и изучить новые<br/>
-   😼 Обожаю разные активности: ⚽️🎾⛳️🏂🏄🏊
+   🚀 I am improving my stack<br/>
+   😼 I love activities: ⚽️🎾⛳️🏂🏄🏊
    
 <br/>
 
-**Мой стек:**
+**Stack:**
 
 <code><img height="21" width="21" src="./icons/html-5.svg" alt="HTML5"></code>
 <code><img height="21" width="21" src="./icons/css-3.svg" alt="CSS3"></code>
@@ -33,7 +33,7 @@
 <code><img height="21" width="21" src="./icons/bem.svg" alt="BEM"></code>
 
 
-**Изучаю:**
+**Learning:**
 
 <code><img height="21" width="21" src="./icons/firebase.svg" alt="FireBase"></code>
 <code><img height="21" width="21" src="./icons/netlify.svg" alt="Netlify"></code>
