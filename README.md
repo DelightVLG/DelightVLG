@@ -1,12 +1,12 @@
 ### Hi there! 👋 
-My name is Sergei and i am a front end developer 🔰💎.
+My name is Sergei and i am a backend developer 🔰💎.
 
 **Some facts about me:**</br>
     <a href="https://www.codewars.com/users/DelightVLG" target="_blank">
       <img src="https://www.codewars.com/users/DelightVLG/badges/micro" alt="Codewars"/>
     </a></br>
     
-   🚀 I am improving my stack<br/>
+   🚀 I am improving my skills<br/>
    😼 I love activities: ⚽️🎾⛳️🏂🏄🏊
    
 <br/>
