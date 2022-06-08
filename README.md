@@ -34,6 +34,7 @@ My name is Sergei and i am a backend developer 🔰💎.
 
 
 **Learning:**
+SQL GO
 
 
 <p align="center">
