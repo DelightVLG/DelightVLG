@@ -35,10 +35,6 @@ My name is Sergei and i am a backend developer 🔰💎.
 
 **Learning:**
 
-<code><img height="21" width="21" src="./icons/firebase.svg" alt="FireBase"></code>
-<code><img height="21" width="21" src="./icons/netlify.svg" alt="Netlify"></code>
-<code><img height="21" width="21" src="./icons/redux.svg" alt="Redux"></code>
-<code><img height="21" width="21" src="./icons/tailwindcss-icon.svg" alt="tailwindcss"></code>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DelightVLG&show_icons=true&locale=en&layout=compact&count_private=true&theme=gruvbox&hide=python&langs_count=8" alt="DelightVLG" />
