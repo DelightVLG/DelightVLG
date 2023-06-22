@@ -1,5 +1,6 @@
 ### Hi there! 👋 
-My name is Sergei and i am a backend developer 🔰💎.
+My name is Sergey and i am a backend developer 💎.
+Now I need to tidy up the repository, I've been working a lot for the last two years and I haven't had any time for the repository unfortunately.
 
 **Some facts about me:**</br>
     <a href="https://www.codewars.com/users/DelightVLG" target="_blank">
@@ -15,7 +16,6 @@ My name is Sergei and i am a backend developer 🔰💎.
 
 <code><img height="21" width="21" src="./icons/html-5.svg" alt="HTML5"></code>
 <code><img height="21" width="21" src="./icons/css-3.svg" alt="CSS3"></code>
-<code><img height="21" width="21" src="./icons/sass.svg" alt="SASS"></code>
 <code><img height="21" width="21" src="./icons/javascript.svg" alt="JS"></code>
 <code><img height="21" width="21" src="./icons/typescript-icon.svg" alt="TS"></code>
 <code><img height="21" width="21" src="./icons/react.svg" alt="React"></code>
@@ -30,11 +30,9 @@ My name is Sergei and i am a backend developer 🔰💎.
 <code><img height="21" width="21" src="./icons/express.svg" alt="express"></code>
 <code><img height="21" width="21" src="./icons/webstorm.svg" alt="WS"></code>
 <code><img height="21" width="21" src="./icons/bash-icon.svg" alt="Bash"></code>
-<code><img height="21" width="21" src="./icons/bem.svg" alt="BEM"></code>
-
 
 **Learning:**
-SQL GO
+
 
 
 <p align="center">
